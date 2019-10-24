@@ -9,8 +9,6 @@
 		<script src="demo.js"></script>
 		<script type="text/javascript">
 			drag();
-
-
 		</script>
 	</head>
 	<body>
